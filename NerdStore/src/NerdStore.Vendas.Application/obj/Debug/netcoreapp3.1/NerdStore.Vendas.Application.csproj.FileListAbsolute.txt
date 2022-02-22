@@ -1,0 +1,16 @@
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Application.deps.json
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Application.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Application.pdb
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.pdb
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.pdb
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Application.csproj.CopyComplete

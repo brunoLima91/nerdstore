@@ -1,0 +1,16 @@
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.deps.json
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.pdb
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.AssemblyInfo.cs
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.csproj.CopyComplete
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.dll
+C:\Users\bruno\source\repos\nerdstore\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.pdb
